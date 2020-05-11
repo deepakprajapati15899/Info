@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  border: dotted #b4f2e1 6px;
+  border-bottom: none;
+  width: 8%;
+  margin: 100px auto;
+
+}
+
+p{
+  line-height: 2;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 4.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Handlee', cursive;
+}
+
+.subtittle{
+  font-weight: normal;
+}
+
+.about-discribtion{
+  color: #40514E;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  padding: 2%;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #eaf6f6;
+}
+
+.last{
+    padding-top: 2%;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+ margin: 100px 0;
+}
+
+.contact-bio{
+  margin: 40px auto 60px;
+}
+
+.btn {
+	-moz-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	-webkit-box-shadow: 0px 1px 0px 0px #f0f7fa;
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background-color: #11cdd4;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+text-indent:0;
+	border:1px solid #057fd0;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px -1px 0px #5b6178;
+}.btn:hover {
+	background-color:#2bc4ad;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.wd{
+  border-radius: 100%;
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.business{
+  border-radius: 100%;
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 3%;
+  margin-top: 80px;
+}
+
+.E {
+  text-decoration: underline;
+}
+
+.photo{
+  height: 250px;
+  width: 250px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
